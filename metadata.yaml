@@ -1,0 +1,33 @@
+_repo: The-Days-of-Auld-Lang-Syne_43726
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maclaren, Ian
+    alias: Watson, John
+    birthdate: 1850
+    deathdate: 1907
+    gutenberg_agent_id: '2364'
+    url: http://www.gutenberg.org/2009/agents/2364
+    wikipedia: http://en.wikipedia.org/wiki/Ian_Maclaren
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories'
+- !lcsh 'Scotland -- Social life and customs -- Fiction'
+tableOfContents: A triumph in diplomacy -- For conscience sake -- A manifest judgement
+  -- Drumsheugh's love story -- Past redemption -- Good news from a far country --
+  Jamie -- Servant lass -- Oor lang hame.
+title: The Days of Auld Lang Syne
+url: http://www.gutenberg.org/ebooks/43726
